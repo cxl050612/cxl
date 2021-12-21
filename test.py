@@ -1,2 +1,2 @@
 #!/bin/bash
-print ('v1.1')
+print ('v1.2')
