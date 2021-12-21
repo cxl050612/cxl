@@ -1,3 +1,2 @@
 #!/bin/bash
-hello
-hello2
+print ('v1.1')
